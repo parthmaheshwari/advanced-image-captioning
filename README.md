@@ -1,5 +1,5 @@
 # CSE 847 Machine Learning Final Project
-Advanced Image Captioning using Attention Mechanism and Word Embeddings
+## Advanced Image Captioning using Attention Mechanism and Word Embeddings
 
 Presentation link - https://youtu.be/8ChOLvpfkzc
 
